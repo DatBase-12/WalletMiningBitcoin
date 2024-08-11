@@ -44,10 +44,10 @@ For Running On Linux : `python3 Wallet_Mining_Bitcoin_Demo_Windows_Linux.py`
 
 ## if Needed Hunting With Speed and thread On Cloud and Use Postgres and NodeJS Technology in This Script and Hunting With Cloud and Power Performance [CPU] can Order Now Pro Version AtomXBitcoin . For Ordering Now Just Follow :
 
-Video Checking On Wallet Mining Bitcoin Pro Version : [ [VIDEO PRO Version]() ]
+Video Checking On Wallet Mining Bitcoin Pro Version : [ [VIDEO PRO Version](https://github.com/DatBase-12/WalletMiningBitcoin/blob/main/pro.mp4) ]
 
 
-Programmer Telegram ID : [@GecroCrypto](https://t.me/GecroCrypto)
+Programmer Telegram ID : [@GecroCrypto]  [https://github.com/DatBase-12/WalletMiningBitcoin/edit/main/README.md](https://t.me/GecroCrypto)
 
 
 ***Order only through the announced communication channels. There are other fraudsters who claim to have our software, but unfortunately these thieves are hungry poor people who need very small amounts to steal from you and after paying a They will give you scripts containing viruses or they will not give you anything, they will block you. (These items have been reported a lot, please be careful not to be deceived by the low price). All our scripts have a license and password, and no unauthorized person can use it or give it to others.***
